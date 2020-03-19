@@ -1,5 +1,7 @@
 # COVID-19 International Social Science Research Tracker
-Collaborators: **[J. Nathan Matias](https://natematias.com)** (Cornell University, Communication; [@natematias](https://twitter.com/natematias)), **Alex Leavitt** (Facebook Research, Health Integrity; [@alexleavitt](https://twitter.com/alexleavitt)). 
+Collaborators: 
+* **[J. Nathan Matias](https://natematias.com)** (Cornell University, Communication; [@natematias](https://twitter.com/natematias))
+* **Alex Leavitt** (Facebook Research, Health Integrity; [@alexleavitt](https://twitter.com/alexleavitt)). 
 
 Social scientists have an important role to serve society during a pandemic. We can do this much better through cooperation. This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
 
