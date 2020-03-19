@@ -5,10 +5,12 @@ Social scientists have an important role to serve society during a pandemic. We 
 
 **If you share the tracker online, please link to this document**, so we have resilience/redundancy in the case of any problems with Google Sheets.
 
-* Add your project to this google spreadsheet: [COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)
+* Add your project to this google spreadsheet: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
 * If you can't access the spreadsheet, you can use this Google form and we will update the spreadsheet (Link coming Soon)
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
+
+---
 
 ## How to Use the Spreadsheet
 ### Adding New Entries
@@ -22,6 +24,8 @@ To review spreadsheet contents, **please download the spreadsheet rather than re
 
 ## Responsibility to Update
 Please, if you add an entry to this spreadsheet, we ask that you take responsibility to update the link as the status of your project changes. Thanks!
+
+---
 
 ## Fields in the Tracker:
 For each project, please plan to enter:
