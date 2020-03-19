@@ -29,7 +29,7 @@ Please, if you add an entry to this spreadsheet, we ask that you take responsibi
 
 ## Fields in the Tracker:
 For each project, please plan to enter:
-* Status: What is the project's current status?
+* **Status**: What is the project's current status?
   * Planning
   * In IRB Review
   * Data Collection
@@ -38,21 +38,23 @@ For each project, please plan to enter:
   * Under Peer Review
   * Published
   * Inactive (if the funding didn't come through, or IRB rejected the design, or you are no longer working on this, please update!)
-* Lead POC (Name)
-* Lead POC Institution
-* Primary Research Question
-* Method(s)
-* Locations Studied
-* Anticipated Impact Category (these are based on the three-stage model of pandemic management) 
+* **Short Project Title**
+* **Last Updated** (YYYY-MM-DD) <- please update this when you update it. 
+* **Lead Point of Contact** (Name)
+* **Lead POC Institution**
+* **Primary Research Question**
+* **Method(s)**
+* **Locations Studied**
+* **Anticipated Impact Category** (these are based on the three-stage model of pandemic management) 
   * During the **prevention** stage, the goal is to promote behaviors that minimize the spread of the pandemic
   * During the **resilience** stage, the goal is to help people manage and survive the risks of ongoing pandemic management
   * During the **recovery** stage, the goal is to support re-building and recovery from the pandemic
-* Other collaborators (name, institution)
-* Stuy Timing. When the study was or will be fielded. If you're not sure yet, leave this blank so we can sort.
-* Description of project (100 words max). Say more about how you are going about advancing your research goals. 
-* Goals: beyond the specific research question, what do you hope this will achieve?
-* Outcome variables or findings: Tell us more about what kinds of things we learn from this research
-* Team/Lab link (valid URLs please)
-* Analysis Link (e.g. Jupyter Notebook, pre-analysis plan, code/data repository)
-* Pre-Print Link (valid URLs please)
-* Publication Link (valid URLs please)
+* **Other collaborators** (name, institution)
+* **Study Timing**. When the study was or will be fielded. If you're not sure yet, leave this blank so we can sort.
+* **Description of project** (100 words max). Say more about how you are going about advancing your research goals. 
+* **Goals**: beyond the specific research question, what do you hope this will achieve?
+* **Outcome variables or findings**: Tell us more about what kinds of things we learn from this research
+* **Team/Lab** link (valid URLs please)
+* **Analysis Link** (e.g. Jupyter Notebook, pre-analysis plan, code/data repository)
+* **Pre-Print Link** (valid URLs please)
+* **Publication Link** (valid URLs please)
