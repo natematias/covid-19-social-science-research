@@ -10,6 +10,16 @@ Social scientists have an important role to serve society during a pandemic. We 
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
 
+## How to Use the Spreadsheet
+### Adding New Entries
+By using a Google Spreadsheet, we're able to collect a large number of contributions from many others. However, similar endeavors in the past week have gotten swamped and faced problems with accidental deletions and copy/paste errors. To minimize errors of this kind, we ask you to:
+* **Prepare** Before adding to the spreadsheet, prepare your contributions in a separate document, after reading the fields below
+* **Type** Rather than copy/pasting large blocks of text into the spreadsheet, please type out your answers. It's okay to paste web links
+* **Validate** Review your answers to make sure they're accurate
+
+### Reviewing and Accessing the Spreadsheet
+To review spreadsheet contents, **please download the spreadsheet rather than reading/sorting/filtering online**. This will help us minimize errors and prevent disruptions to other people's ability to concentrate. Thanks!
+
 ## Responsibility to Update
 Please, if you add an entry to this spreadsheet, we ask that you take responsibility to update the link as the status of your project changes. Thanks!
 
