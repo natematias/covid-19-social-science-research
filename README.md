@@ -5,7 +5,7 @@ Collaborators:
 
 Social scientists have an important role to serve society during a pandemic. We can do this much better through cooperation. This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
 
-**If you share the tracker online, please link to this document**, so we have resilience/redundancy in the case of any problems with Google Sheets.
+**If you share the tracker online, please link to this github page**, so we have resilience/redundancy in the case of any problems with Google Sheets.
 
 * Add your project to this google spreadsheet: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
 * If you can't access the spreadsheet, you can use this Google form and we will update the spreadsheet (Link coming Soon)
