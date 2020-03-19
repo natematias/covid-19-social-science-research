@@ -1,4 +1,4 @@
-# COVID 19 Social Science Research Tracker
+# COVID-19 Social Science Research Tracker
 Collaborators: **[J. Nathan Matias](https://natematias.com)** (Cornell University, Communication; [@natematias](https://twitter.com/natematias)), **Alex Leavitt** (Facebook Research, Health Integrity; [@alexleavitt](https://twitter.com/alexleavitt)). 
 
 Social scientists have an important role to serve society during a pandemic. We can do this much better through cooperation. This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
@@ -10,10 +10,20 @@ Social scientists have an important role to serve society during a pandemic. We 
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
 
+## Responsibility to Update
+Please, if you add an entry to this spreadsheet, we ask that you take responsibility to update the link as the status of your project changes. Thanks!
 
 ## Fields in the Tracker:
 For each project, please plan to enter:
-* 
+* Status: What is the project's current status?
+  * Planning
+  * In IRB Review
+  * Data Collection
+  * Analysis
+  * Pre-Print
+  * Under Peer Review
+  * Published
+  * Inactive (if the funding didn't come through, or IRB rejected the design, or you are no longer working on this, please update!)
 * Lead POC (Name)
 * Lead POC Institution
 * Primary Research Question
