@@ -7,7 +7,7 @@ Social scientists have an important role to serve society during a pandemic. We 
 
 **If you share the tracker online, please link to this github page**, so we have resilience/redundancy in the case of any problems with Google Sheets.
 
-* [Add your project using this Google form](https://forms.gle/K5CUpHYk23XXZSrh7 ) and it will be automatically added to the spreadsheet
+* **[Add your project using this Google form](https://forms.gle/K5CUpHYk23XXZSrh7)** and it will be automatically added to the spreadsheet
 * View the list and update your entry here: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
