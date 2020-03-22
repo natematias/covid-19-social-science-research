@@ -1,14 +1,13 @@
 # COVID-19 International Social Science Research Tracker
-Collaborators: 
 * **[J. Nathan Matias](https://natematias.com)** (Cornell University, Communication; [@natematias](https://twitter.com/natematias))
 * **Alex Leavitt** (Facebook Research, Health Integrity; [@alexleavitt](https://twitter.com/alexleavitt)). 
 
-Social scientists have an important role to serve society during a pandemic. We can do this much better through cooperation. This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
+Social scientists have an important role during a pandemic. We can do this much better through cooperation. This resource tracks new social research about COVID 19, including published findings, pre-prints, projects underway, and projects at least at a solid proposal stage.
 
-**If you share the tracker online, please link to this github page**, so we have resilience/redundancy in the case of any problems with Google Sheets.
+**If you share the tracker, please link to this page**, so we have redundancy in the case of any Google Sheets problems.
 
-* **[Add your project using this Google form](https://forms.gle/K5CUpHYk23XXZSrh7)** and it will be automatically added to the spreadsheet
-* View the list and update your entry here: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
+* **[Add your project using this Google form](https://forms.gle/K5CUpHYk23XXZSrh7)** and it will be automatically added
+* View and update here: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
 
