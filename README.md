@@ -20,7 +20,7 @@ Please add your entry via the Google form above rather than typing directly into
 ### Reviewing and Accessing the Spreadsheet
 To review spreadsheet contents, **please download the spreadsheet rather than reading/sorting/filtering online** if you can. This will help us minimize errors and prevent the sheet from being overwhelmed with readers. 
 
-If you do have the spreadsheet, please **close the tab when you are finished** so other people can view it.
+If you do view the spreadsheet online, please **close the tab when you are finished** so other people can view it.
 
 ## Responsibility to Update
 Please, if you add an entry, we ask that you take responsibility to update the link as the status of your project changes. You can make changes directly to the spreadsheet (but be careful not to over-write other entries). Thanks!
