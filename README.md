@@ -7,8 +7,8 @@ Social scientists have an important role to serve society during a pandemic. We 
 
 **If you share the tracker online, please link to this github page**, so we have resilience/redundancy in the case of any problems with Google Sheets.
 
-* Add your project to this google spreadsheet: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
-* If you can't access the spreadsheet, you can [use this Google form to add your research](https://forms.gle/K5CUpHYk23XXZSrh7 ) and we will update the spreadsheet
+* [Add your project using this Google form](https://forms.gle/K5CUpHYk23XXZSrh7 ) and it will be automatically added to the spreadsheet
+* View the list and update your entry here: **[COVID 19 Social Science Research Spreadsheet](https://docs.google.com/spreadsheets/d/1DuY8VLV2yG8TAOZbtyNtrhHERmzUjSaXpAo0_59z_XU/edit?ts=5e73b15d#gid=0)**
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
 
@@ -16,16 +16,15 @@ If you have questions about this resource or want to discuss it with other socia
 
 ## How to Use the Spreadsheet
 ### Adding New Entries
-By using a Google Spreadsheet, we're able to collect a large number of contributions from many others. However, similar endeavors in the past week have gotten swamped and faced problems with accidental deletions and copy/paste errors. To minimize errors of this kind, we ask you to:
-* **Prepare** Before adding to the spreadsheet, prepare your contributions in a separate document, after reading the fields below
-* **Type** Rather than copy/pasting large blocks of text into the spreadsheet, please type out your answers. It's okay to paste web links
-* **Validate** Review your answers to make sure they're accurate
+Please add your entry via the Google form above rather than typing directly into the spreadsheet.
 
 ### Reviewing and Accessing the Spreadsheet
-To review spreadsheet contents, **please download the spreadsheet rather than reading/sorting/filtering online**. This will help us minimize errors and prevent disruptions to other people's ability to concentrate. Thanks!
+To review spreadsheet contents, **please download the spreadsheet rather than reading/sorting/filtering online** if you can. This will help us minimize errors and prevent the sheet from being overwhelmed with readers. 
+
+If you do have the spreadsheet, please **close the tab when you are finished** so other people can view it.
 
 ## Responsibility to Update
-Please, if you add an entry to this spreadsheet, we ask that you take responsibility to update the link as the status of your project changes. Thanks!
+Please, if you add an entry, we ask that you take responsibility to update the link as the status of your project changes. You can make changes directly to the spreadsheet (but be careful not to over-write other entries). Thanks!
 
 ---
 
