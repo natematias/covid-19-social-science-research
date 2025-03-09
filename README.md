@@ -11,6 +11,13 @@ Social scientists have an important role during a pandemic. We can do this much 
 
 If you have questions about this resource or want to discuss it with other social scientists, [please use the issue discussion area](https://github.com/natematias/covid-19-social-science-research/issues) in this repository. 
 
+The tracker in the news:
+* Anthes, Emily. (2020-09-10) [The Great Experiment: The pandemic is tragic. It's also an incredible chance to study human behavior](https://www.washingtonpost.com/outlook/2020/09/10/coronavirus-research-experiment-behavior/). Washington Post
+* Palmer, Chris. [Researchers mobilize to study impact of COVID-19](https://web.archive.org/web/20200721095029/https://www.apa.org/monitor/2020/06/covid-researchers). American Psychological Association Monitor on Psychology
+
+This tracker was also cited in a meta-analysis of COVID-19 misinformation interventions:
+* Janmohamed, K., Walter, N., Nyhan, K., Khoshnood, K., Tucker, J. D., Sangngam, N., ... & Kumar, N. (2021). [Interventions to mitigate COVID-19 misinformation: a systematic review and meta-analysis]([https://www.tandfonline.com/doi/full/10.1080/10810730.2021.2021460](https://www.tandfonline.com/doi/full/10.1080/10810730.2021.2021460)). Journal of Health Communication, 26(12), 846-857.
+
 ---
 
 ## How to Use the Spreadsheet
