@@ -15,8 +15,15 @@ The tracker in the news:
 * Anthes, Emily. (2020-09-10) [The Great Experiment: The pandemic is tragic. It's also an incredible chance to study human behavior](https://www.washingtonpost.com/outlook/2020/09/10/coronavirus-research-experiment-behavior/). Washington Post
 * Palmer, Chris. [Researchers mobilize to study impact of COVID-19](https://web.archive.org/web/20200721095029/https://www.apa.org/monitor/2020/06/covid-researchers). American Psychological Association Monitor on Psychology
 
-This tracker was also cited in a meta-analysis of COVID-19 misinformation interventions:
+This tracker has been cited in numerous peer reviewed publications.:
 * Janmohamed, K., Walter, N., Nyhan, K., Khoshnood, K., Tucker, J. D., Sangngam, N., ... & Kumar, N. (2021). [Interventions to mitigate COVID-19 misinformation: a systematic review and meta-analysis]([https://www.tandfonline.com/doi/full/10.1080/10810730.2021.2021460](https://www.tandfonline.com/doi/full/10.1080/10810730.2021.2021460)). Journal of Health Communication, 26(12), 846-857.
+* Nguyen, M. H., Gruber, J., Fuchs, J., Marler, W., Hunsaker, A., & Hargittai, E. (2020). <? covid19?> Changes in Digital Communication During the COVID-19 Global Pandemic: Implications for Digital Inequality and Future Research. Social media+ society, 6(3), 2056305120948255.
+* Lewis, S. C. (2020). The objects and objectives of journalism research during the coronavirus pandemic and beyond. Digital Journalism, 8(5), 681-689.
+* Schaurer, I., & Weiß, B. (2020, June). Investigating selection bias of online surveys on coronavirus-related behavioral outcomes. In survey research methods (Vol. 14, No. 2, pp. 103-108).
+* Kumar, N., Hampsher, S., Walter, N., Nyhan, K., & De Choudhury, M. (2022). Interventions to mitigate vaping misinformation: protocol for a scoping review. Systematic reviews, 11(1), 214.
+* Rueda, M. D. M., Pasadas‐del‐Amo, S., Rodríguez, B. C., Castro‐Martín, L., & Ferri‐García, R. (2023). Enhancing estimation methods for integrating probability and nonprobability survey samples with machine‐learning techniques. An application to a Survey on the impact of the COVID‐19 pandemic in Spain. Biometrical Journal, 65(2), 2200035.
+* Božić, S. (2021). Interaction ritual chains and sustainability of lockdowns, quarantines,“social distancing” and isolation during the COVID-19 pandemic. Sociologija i prostor: časopis za istraživanje prostornoga i sociokulturnog razvoja, 59(219), 13-34.
+* Abdullah, D. M. (2021). Journalism Research's Objects and Objectives During and After the Coronavirus Pandemic. Mitanni Journal of Humanitarian Sciences, 2(2), 18-22.
 
 ---
 
